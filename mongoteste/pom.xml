@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.blackcode77</groupId>
-	<artifactId>mongoDB</artifactId>
+	<artifactId>mongoteste</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mongoDB</name>
 	<description>Transaction API</description>
