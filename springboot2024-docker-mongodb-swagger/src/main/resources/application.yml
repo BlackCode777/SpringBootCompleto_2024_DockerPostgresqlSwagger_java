@@ -1,0 +1,8 @@
+# informações de conexão com o banco de dados mongo db
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: springboot2024-docker-mongodb-swaggerDB
+      
